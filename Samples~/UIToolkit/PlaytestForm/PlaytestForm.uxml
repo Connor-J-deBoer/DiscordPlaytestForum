@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scenes/PlaytestForumSamples/UIToolkit/PlaytestForm/AutomaticPlaytestFormUSS.uss?fileID=7433441132597879392&amp;guid=566199da17aa4084eb4e5cebc141ed6c&amp;type=3#AutomaticPlaytestFormUSS" />
+    <ui:VisualElement name="Survey" class="Container" style="visibility: visible;">
+        <ui:ListView focusable="false" virtualization-method="DynamicHeight" fixed-item-height="200" selection-type="None" show-add-remove-footer="false" show-bound-collection-size="false" class="QuestionList" />
+        <ui:Button text="Submit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="submit" class="SubmitButton" style="visibility: hidden;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="AfterSurvey" style="flex-grow: 1; position: absolute; left: 0; top: 0; background-color: rgb(35, 36, 40); right: 0; bottom: 0; align-items: center; justify-content: center; visibility: hidden;">
+        <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Message" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc1a12e9c53b79d46a58a90bfc04be4e, type: 3}
+  m_Name: Other More Different Questions
+  m_EditorClassIdentifier: 
+  DiscordWebHookURL: 
+  Questions:
+  - QuestionText: On a scale of 1-10 how cool of a package is this?
+    AnswersText:
+    - Name: 1
+      Value: 0
+    - Name: 2
+      Value: 0
+    - Name: 3
+      Value: 0
+    - Name: 4
+      Value: 0
+    - Name: 5
+      Value: 0
+    - Name: 6
+      Value: 0
+    - Name: 7
+      Value: 0
+    - Name: 8
+      Value: 0
+    - Name: 9
+      Value: 0
+    - Name: 10
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 1
+  - QuestionText: Which of the following are you familar with?
+    AnswersText:
+    - Name: Unity
+      Value: 0
+    - Name: Unreal
+      Value: 0
+    - Name: Gadot
+      Value: 0
+    - Name: 'Game Maker Studio '
+      Value: 0
+    AllowMoreThanOneAnswer: 1
+    Required: 1
+  - QuestionText: Not all answers are required
+    AnswersText:
+    - Name: ok
+      Value: 0
+    - Name: That's super cool!
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 0
+  - QuestionText: C# is the best language
+    AnswersText:
+    - Name: Strongly Agree
+      Value: 0
+    - Name: Agree
+      Value: 0
+    - Name: Neutral
+      Value: 0
+    - Name: Disagree
+      Value: 0
+    - Name: Strongly Disagree
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 1
+  - QuestionText: Javascript is the best language
+    AnswersText:
+    - Name: Strongly Agree
+      Value: 0
+    - Name: Agree
+      Value: 0
+    - Name: Neutral
+      Value: 0
+    - Name: Disagree
+      Value: 0
+    - Name: Strongly Disagree
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 1
+  - QuestionText: C++ is the best langauge
+    AnswersText:
+    - Name: Strongly Agree
+      Value: 0
+    - Name: Agree
+      Value: 0
+    - Name: Neutral
+      Value: 0
+    - Name: Disagree
+      Value: 0
+    - Name: Strongly Disagree
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 1
+  - QuestionText: Swift is Garbage
+    AnswersText:
+    - Name: Strongly Agree
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 1
+  - QuestionText: The last question was asked fairly, and the answers aren't baised
+    AnswersText:
+    - Name: True
+      Value: 0
+    - Name: False
+      Value: 0
+    AllowMoreThanOneAnswer: 0
+    Required: 1
