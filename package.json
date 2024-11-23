@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "name": "com.connor.discord-playtest",
   "documentationUrl": "",
-  "changelogUrl": "https://github.com/Connor-J-deBoer/EasyLeaderboard/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/Connor-J-deBoer/EasyLeaderboard/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/Connor-J-deBoer/DiscordPlaytestForum/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Connor-J-deBoer/DiscordPlaytestForum/blob/main/LICENSE.md",
   "description": "Forum response for discord",
   "unity": "2022.3",
   "dependencies": {
