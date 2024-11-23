@@ -3,7 +3,7 @@
   "author": "Connor deBoer",
   "version": "0.0.1",
   "name": "com.connor.discord-playtest",
-  "documentationUrl": "",
+  "documentationUrl": "https://github.com/Connor-J-deBoer/DiscordPlaytestForum/blob/main/README.md",
   "changelogUrl": "https://github.com/Connor-J-deBoer/DiscordPlaytestForum/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/Connor-J-deBoer/DiscordPlaytestForum/blob/main/LICENSE.md",
   "description": "Forum response for discord",
